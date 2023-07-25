@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <img src={logo} className="App-logo" alt="logo" />
+        <img src="/images/1.png" alt="" />
         </a>
       </header>
     </div>
